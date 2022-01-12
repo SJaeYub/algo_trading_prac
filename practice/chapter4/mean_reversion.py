@@ -137,7 +137,7 @@ plt.title("MSFT and JNPR prices")
 Symbol1_prices.plot()
 Symbol2_prices.plot()
 plt.legend()
-plt.show() 
+plt.show()
 
 
 
